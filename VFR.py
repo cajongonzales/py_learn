@@ -3,4 +3,5 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
-print("Hello World")
+file_id = sys.argv[1]
+print(file_id)
